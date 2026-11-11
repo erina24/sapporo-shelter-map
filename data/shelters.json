@@ -1,0 +1,44 @@
+{
+  "source": {
+    "url": "https://ckan.pf-sapporo.jp/dataset/hinanjyo/resource/00af22cb-87c0-4986-a173-171ec7a743e6",
+    "checkedOn": "2026-11-12"
+  },
+  "shelters": [
+    {
+      "id": "55",
+      "name": "中央小学校",
+      "ward": "中央区",
+      "address": "北海道札幌市中央区大通東6丁目12",
+      "latitude": 43.06318447,
+      "longitude": 141.3654812,
+      "category": "指定避難所（基幹）"
+    },
+    {
+      "id": "77",
+      "name": "幌北小学校",
+      "ward": "北区",
+      "address": "北海道札幌市北区北19条西2丁目1-1",
+      "latitude": 43.08361551,
+      "longitude": 141.3488514,
+      "category": "指定避難所（基幹）"
+    },
+    {
+      "id": "144",
+      "name": "苗穂小学校",
+      "ward": "東区",
+      "address": "北海道札幌市東区北9条東13丁目1-1",
+      "latitude": 43.07514192,
+      "longitude": 141.3739422,
+      "category": "指定避難所（基幹）"
+    },
+    {
+      "id": "234",
+      "name": "豊平小学校",
+      "ward": "豊平区",
+      "address": "北海道札幌市豊平区豊平5条7丁目1-2",
+      "latitude": 43.04841962,
+      "longitude": 141.3718583,
+      "category": "指定避難所（基幹）"
+    }
+  ]
+}
